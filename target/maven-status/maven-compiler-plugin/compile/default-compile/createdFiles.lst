@@ -1,0 +1,7 @@
+fatebook\model\Post.class
+fatebook\service\PessoaServiceImpl.class
+fatebook\model\Solicitacao.class
+fatebook\App.class
+fatebook\service\PessoaService.class
+fatebook\repository\PessoaRepository.class
+fatebook\model\Pessoa.class
